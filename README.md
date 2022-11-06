@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubdev5&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubdev5" /> </p>
 
-- 🔭 I’m currently working on **E-learning Plateforme**
 
-- 🌱 I’m currently learning **React Native**
+
+- 🌱 I’m currently learning **Java EE**
 
 - 💬 Ask me about **react,angular,java,Database(SQL)**
 
