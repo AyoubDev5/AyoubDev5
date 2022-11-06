@@ -1,7 +1,7 @@
 
 <img src="https://miro.medium.com/max/1400/1*MOYJZ07npQzv4HhHBzDPcA.jpeg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="What Kind of Software Engineer Are You? | by Kelvin Tan | Better Programming" data-noaft="1" style="width: 100%; height: 300px; margin: 0px;">
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h3 align="center">Im a Full Stack Developer and Software Engineering</h3>
+<h3 align="center">Im a Full Stack Developer and Database Administration</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubdev5&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubdev5" /> </p>
