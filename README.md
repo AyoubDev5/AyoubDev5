@@ -6,13 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubdev5&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubdev5" /> </p>
 
-- 🔭 I’m currently working on **E-learning Plateforme**
+- 👨‍💻 All of my projects are available at [https://ayoubtaqi.vercel.app/](https://ayoubtaqi.vercel.app/)
 
-- 🌱 I’m currently learning **Java EE**
-
-- 👨‍💻 All of my projects are available at [https://ayoubdev5.netlify.app/](https://ayoubdev5.netlify.app/)
-
-- 💬 Ask me about **laravel,react,angular,java,Database(SQL)**
+- 💬 Ask me about **laravel,react,angular,java,Springboot,Database(SQL)**
 
 - 📫 How to reach me **taqiayoub123@gmail.com**
 
